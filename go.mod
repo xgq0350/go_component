@@ -1,4 +1,4 @@
-module awesomeProject
+module  github.com/xgg0350/go_component
 
 go 1.17
 
