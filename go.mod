@@ -1,4 +1,4 @@
-module  github.com/xgg0350/go_component
+module  github.com/xgq0350/go_component
 
 go 1.17
 
